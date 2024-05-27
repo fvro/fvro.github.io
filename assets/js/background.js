@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const header = document.getElementById('header');
-    const totalImages = 10; // Total number of images
+    const totalImages = 60; // Total number of images
     const images = [];
 
     // Generate the image paths
